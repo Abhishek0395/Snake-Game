@@ -1,0 +1,3 @@
+A sanke game using AtMega32
+Video link:
+https://www.youtube.com/watch?v=CagzMsUUZa8&t=2s
